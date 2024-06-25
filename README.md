@@ -14,7 +14,7 @@ O "ChatGPT" foi utilizado para escrever e revisar o roteiro do vídeo, porém eu
 O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo.
 
 ## 🚀 Resultados
-O vídeo pode auxiliar quem tem dúvidas em como utilizar o ChatGPT a extrair o máximo do chatbot
+O vídeo de pode 1:45s auxiliará quem tem dúvidas em como utilizar o ChatGPT a extrair o máximo do chatbot.
 
 [LINK PARA O VÍDEO AQUI]()
 
