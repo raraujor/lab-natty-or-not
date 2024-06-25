@@ -16,7 +16,7 @@ O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo 
 ## 🚀 Resultados
 O vídeo de pode 1:45s auxiliará quem tem dúvidas em como utilizar o ChatGPT a extrair o máximo do chatbot.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://youtu.be/_YiwOX6T1hQ)
 
 ## 💭 Reflexão (Opcional)
 Este projeto foi uma experiência para consolidar várias IAs Generativas.
